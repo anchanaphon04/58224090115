@@ -15,7 +15,7 @@ void main()
 	printf("choice = %c\n",choice);
 	printf("ch1 = %.0f ch2 = %c\n",ch1,ch2);
 	
-	short int number2 = 32767;
-	printf("number2=%d",number2);
+	long Number2 = 40000;
+	printf("number2=%d",Number2);
 	
 }
