@@ -14,5 +14,8 @@ void main()
 	printf("point1 = %.1f point2 = %.0f\n",point1,point2);
 	printf("choice = %c\n",choice);
 	printf("ch1 = %.0f ch2 = %c\n",ch1,ch2);
-	return 0;
+	
+	short int number2 = 32767;
+	printf("number2=%d",number2);
+	
 }
